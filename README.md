@@ -1,1 +1,5 @@
 # Social_bias_indicator_using_NLP
+
+The attitudes, convictions, and assumptions we have about various group of people are referred to as social bias. Information and ways of communication on social media have an unprecedented potential to make a biased impact on society. Despite our best efforts to avoid bias, it shows up everywhere in our world. Even when unintentional, bias affects how we interact and treat other people. In this project, we have trained Open-GPT2 (Generative Pre-trained Transformer) and Open-GPT3 models to predict the social bias in the online social media posts. 
+
+The machine learning algorithms used for organizing and collecting data to predict the values, fall within predefined ranges and patterns.  Although algorithms may objectively appear to be mathematical procedures, this is not always the case, as they rely on the data provided by humans. Because of this reliance, ML algorithms can learn many not-so-subtle biases, which results in discriminatory behaviors. Automation may represent a challenge when data is imperfect, messy, or biased. 
